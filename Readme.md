@@ -30,4 +30,7 @@ Outro aspecto legal é o arquivo xx.vbs que foi executado. Este arquivo pode con
 
 ![Captura de Tela 2024-08-02 às 12 03 10](https://github.com/user-attachments/assets/4cac9418-55e7-4ad4-ac48-7df4f9ec2804)
 
-![Captura de Tela 2024-08-02 às 12 34 13](https://github.com/user-attachments/assets/cd0bf34d-1d5b-439a-bb4d-d474d2dd9b4e)
+![Captura de Tela 2024-08-02 às 12 43 06](https://github.com/user-attachments/assets/57788213-22f6-44fd-9f19-240ebdecf6f9)
+
+>## Obrigado por ler até aqui :)
+
